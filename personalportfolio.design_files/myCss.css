@@ -1,0 +1,104 @@
+body {
+	background-color: #000000;
+	background-image: url("../image/pic_2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+h1 {
+	font-family: Montserrat ExtraBold;
+	color: white;
+	font-size: 30px;
+}
+h2 {
+	font-family: Arial;
+	color: white;
+}
+h2 a:hover{
+	background-color: olive;
+	color: white;
+	border-radius: 8px;
+	border: 2px solid white;
+}
+h3 {
+	font-family: Arial;
+	color: white;
+	text-align: left;
+}
+h4 {
+	font-family: Arial;
+	color: white;
+	text-align: left;
+}
+body {
+	border: 2px solid white;
+	padding: 20px;
+}
+.rounded_image {
+	border-radius: 50%;
+}
+a {
+	color: white;
+	text-decoration: none;
+}
+p {
+	text-indent: 1.27cm;
+	color: gray;
+}
+.section_divider{
+	border-top: 2px solid white;
+	margin: 20px 0;
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+	table-layout: fixed;
+}
+th, td {
+	border: 1px solid white;
+	padding: 8px;
+	text-align: left;
+}
+th {
+	font-family: Arial;
+	background-color: olive;
+}
+ul {
+	list-style-type: square;
+	color: gray;
+}
+ol {
+	color: gray;
+}
+.intro {
+    font-family: Arial; 
+    font-weight: bold;
+    font-size: 18px; 
+    color: white; 
+}
+.educ_bg {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 18px;
+	color: white;
+
+}
+.exp {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 18px;
+	color: white;
+}
+.bg_it {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 18px;
+	color: white;
+}
+.apps {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 18px;
+	color: white;
+}
